@@ -9,7 +9,7 @@ public class Nongeneric {
 		
 		ArrayList ar=new ArrayList();
 		ar.add(10);
-		ar.add("kukon");
+		ar.add("kukon miah");
 		ar.add('a');
 		int ob=ar.size();		
 		
